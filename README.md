@@ -2,7 +2,7 @@
 
 ## Welcome to My Data Analyst Portfolio!
 
-I am **Muhammad Danish Azeem**, a passionate **Data Analyst** with a strong foundation in **data analytics, business intelligence, and AI-driven insights**. With over **1.5 years of experience working at Codanics**, I have developed and honed my skills in **data analysis, visualization, and automation**. My expertise spans across **SQL, Power BI, Python, Excel, and data science tools**, allowing me to extract, analyze, and present data-driven insights effectively.
+I am **Muhammad Danish Azeem**, a passionate **Data Analyst** with a strong foundation in **data analytics, business intelligence, and AI-driven insights**. With  **2 years of experience working at Codanics**, I have developed and honed my skills in **data analysis, visualization, and automation**. My expertise spans across **SQL, Power BI, Python, Excel, and data science tools**, allowing me to extract, analyze, and present data-driven insights effectively.
 
 ## Skills & Expertise
 
@@ -15,7 +15,7 @@ I am **Muhammad Danish Azeem**, a passionate **Data Analyst** with a strong foun
 
 ## My Experience at Codanics
 
-I have been an active contributor at **Codanics** for over **1.5 years**, gaining practical experience in **data science, machine learning, and AI-driven analytics**. At Codanics, I have worked on:
+I have been an active contributor at **Codanics** for  **2 years**, gaining practical experience in **data science, machine learning, and AI-driven analytics**. At Codanics, I have worked on:
 
 - **Real-world data analysis projects**
 - **Automated reporting solutions**
