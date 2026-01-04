@@ -1,44 +1,138 @@
-# Data Analytics Portfolio
+# 📊 Power BI Dashboard Portfolio
 
-## Welcome to My Data Analyst Portfolio!
+This repository contains a collection of **end-to-end Power BI dashboard projects** focused on real-world datasets.  
+Each project demonstrates **data cleaning, analysis, visualization, and business insights** using Power BI.
 
-I am **Muhammad Danish Azeem**, a passionate **Data Analyst** with a strong foundation in **data analytics, business intelligence, and AI-driven insights**. With  **2 years of experience working at Codanics**, I have developed and honed my skills in **data analysis, visualization, and automation**. My expertise spans across **SQL, Power BI, Python, Excel, and data science tools**, allowing me to extract, analyze, and present data-driven insights effectively.
+All dashboards are exported as **PDFs** for easy preview, and selected projects include **PBIX files** for full interactivity.
 
-## Skills & Expertise
+---
 
-- **Data Analysis & Visualization:** Power BI, Excel,  Matplotlib, Seaborn
-- **Database Management:** MySQL
-- **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL
-- **Business Intelligence & Reporting:** Power BI, Advanced Excel (Pivot Tables, Dashboards)
-- **AI & Automation:** ChatGPT, Bard, Perplexity, Poe, DeepSeek, GitHub Copilot
-- **Other Tools:** Canva, Filmora, Social Media Management
+## 🗂️ Projects Overview
 
-## My Experience at Codanics
+### 1️⃣ COVID-19 Dashboard
+📄 **File:** `Covid 19 DASHBOARD.pdf.`  
+📅 **Created:** 11 months ago  
 
-I have been an active contributor at **Codanics** for  **2 years**, gaining practical experience in **data science, machine learning, and AI-driven analytics**. At Codanics, I have worked on:
+**Description:**  
+An analytical dashboard providing insights into the COVID-19 pandemic, including:
+- Total cases, deaths, and recoveries
+- Country-wise and time-series analysis
+- Trend comparison and impact visualization  
 
-- **Real-world data analysis projects**
-- **Automated reporting solutions**
-- **Advanced Excel dashboards**
-- **SQL-based data extraction and transformation**
-- **Machine learning model implementations**
+**Skills Used:**  
+`Power BI` · `Data Cleaning` · `Time Series Analysis` · `Public Health Analytics`
 
+---
 
-## How I Use AI (ChatGPT, Bard, Perplexity, GitHub Copilot, DeepSeek)
+### 2️⃣ UK Electricity Consumption Analysis
+📄 **File:** `Dashboard UK Electricity Consumption Analysis.pdf`  
+📅 **Created:** Last week  
 
-Leveraging **AI tools** has significantly enhanced my efficiency in various tasks:
+**Description:**  
+A dashboard analyzing electricity consumption patterns in the UK:
+- Daily and monthly usage trends
+- Peak vs off-peak consumption
+- Demand analysis for energy planning  
 
-- **Data Analysis Automation:** Using ChatGPT for complex Python queries
-- **Report Writing:** Automating insights extraction and report generation
-- **Teaching & Learning:** Enhancing my understanding of MySQL, Power BI, and Python
-- **Presentation Design:** Using Canva for visually appealing dashboards and reports
+**Skills Used:**  
+`Power BI` · `Energy Analytics` · `Trend Analysis` · `Data Modeling`
 
-## Let's Connect!
-If you are looking for a **detail-oriented data analyst** with expertise in **business intelligence, automation, and data-driven decision-making**, feel free to reach out!
+---
 
-📧 Email: [danishazeem365@gmail.com](mailto\:danishazeem365@gmail.com)\
-📞 Contact: +92 302 4316575\
-🔗 LinkedIn:https://www.linkedin.com/in/muhammad-danish-azeem-0772bb220
+### 3️⃣ Google Play Store Analysis Dashboard
+📄 **File:** `Google Playstore_Dashboard.pdf`  
+📅 **Created:** 11 months ago  
 
-**Thank you for visiting my portfolio! 🚀**
+**Description:**  
+A market-level analysis of Google Play Store applications:
+- App category performance
+- Ratings vs installs analysis
+- Pricing and popularity insights  
 
+**Skills Used:**  
+`Power BI` · `EDA` · `Market Analysis` · `Visualization`
+
+---
+
+### 4️⃣ Hotel Bookings Analysis Dashboard
+📄 **File:** `Hotel_bookings_DASHBOARD.pdf`  
+📅 **Created:** 11 months ago  
+
+**Description:**  
+A business intelligence dashboard for hotel booking data:
+- Booking vs cancellation trends
+- ADR (Average Daily Rate) analysis
+- Seasonal demand patterns  
+
+**Skills Used:**  
+`Power BI` · `Hospitality Analytics` · `KPI Design` · `Data Analysis`
+
+---
+
+### 5️⃣ IMDb Global Film Analysis Dashboard
+📄 **File:** `IMDb Global Film Analysis Dashboard.pdf`  
+📅 **Created:** Last week  
+
+**Description:**  
+A global analysis of movies using IMDb data:
+- Genre popularity and trends
+- Rating and revenue comparisons
+- Year-wise film industry insights  
+
+**Skills Used:**  
+`Power BI` · `Entertainment Analytics` · `Data Visualization` · `Trend Analysis`
+
+---
+
+### 6️⃣ Mobile Sales Dashboard
+📄 **File:** `MOBILES SALES DASHBOARD.pdf`  
+📊 **PBIX:** `Mobil Sales.pbix`  
+📅 **Created:** Last year  
+
+**Description:**  
+A sales performance dashboard for mobile products:
+- Brand-wise and model-wise sales
+- Revenue and quantity trends
+- Regional sales insights  
+
+**Skills Used:**  
+`Power BI` · `Sales Analytics` · `Business Intelligence` · `Dashboard Design`
+
+---
+
+### 7️⃣ Power Networks – LCL (June 2015)
+📄 **File:** `Power-Networks-LCL-June2015.pdf`  
+📅 **Created:** Last week  
+
+**Description:**  
+An analytical dashboard focused on power network and load consumption data:
+- Load consumption behavior
+- Time-based energy usage
+- Infrastructure performance insights  
+
+**Skills Used:**  
+`Power BI` · `Energy Data Analysis` · `Time Series Analysis` · `Reporting`
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**
+- **DAX**
+- **Power Query**
+- **Excel / CSV / Public Datasets**
+- **Data Modeling & Visualization**
+
+---
+
+**📧 Email:** danishazeem365@gmail.com  
+**📞 Phone:** +92 302 4316575  
+**📍 Location:** Lodhran, Punjab, Pakistan  
+
+**🔗 Professional Profiles:**
+- [LinkedIn](https://www.linkedin.com/in/muhammad-danish-094481387/)
+- [Kaggle](https://www.kaggle.com/danishazeem36512)
+- [Portfolio Website](#) *(coming soon)*
+
+---
+
+⭐ If you find these dashboards useful, feel free to star the repository!
