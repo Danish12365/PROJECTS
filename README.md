@@ -55,7 +55,11 @@ I transform raw data into strategic business intelligence using an AI-first meth
 - Off-season revenue optimization (+30% winter occupancy target)
 
 [📁 View Project](https://www.kaggle.com/code/danishazeem36512/advanced-data-analysis-of-hotel-bookings-demand)
----
+
+[View Other projects on Github](https://github.com/Danish12365/PROJECTS/tree/main/PYTHON%20PROJECTS)
+
+[View Excel Projects on Github](https://github.com/Danish12365/PROJECTS/tree/main/EXCEL%20PROJECTS)
+
 
 ### 🤖 [Machine Learning Model Portfolio](./ml-models)
 **Predictive Analytics & Classification Projects**
