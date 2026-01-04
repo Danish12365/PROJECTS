@@ -38,7 +38,7 @@ If you are looking for a **detail-oriented data analyst** with expertise in **bu
 
 📧 Email: [danishazeem365@gmail.com](mailto\:danishazeem365@gmail.com)\
 📞 Contact: +92 302 4316575\
-🔗 LinkedIn:https://www.linkedin.com/in/muhammad-danish-azeem-0772bb220
+🔗 LinkedIn:[https://www.linkedin.com/in/muhammad-danish-094481387/]
 
 **Thank you for visiting my portfolio! 🚀**
 
