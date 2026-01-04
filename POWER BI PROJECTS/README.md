@@ -10,8 +10,6 @@ All dashboards are exported as **PDFs** for easy preview, and selected projects 
 ## 🗂️ Projects Overview
 
 ### 1️⃣ COVID-19 Dashboard
-📄 **File:** `Covid 19 DASHBOARD.pdf.`  
-📅 **Created:** 11 months ago  
 
 **Description:**  
 An analytical dashboard providing insights into the COVID-19 pandemic, including:
@@ -25,8 +23,6 @@ An analytical dashboard providing insights into the COVID-19 pandemic, including
 ---
 
 ### 2️⃣ UK Electricity Consumption Analysis
-📄 **File:** `Dashboard UK Electricity Consumption Analysis.pdf`  
-📅 **Created:** Last week  
 
 **Description:**  
 A dashboard analyzing electricity consumption patterns in the UK:
@@ -40,8 +36,6 @@ A dashboard analyzing electricity consumption patterns in the UK:
 ---
 
 ### 3️⃣ Google Play Store Analysis Dashboard
-📄 **File:** `Google Playstore_Dashboard.pdf`  
-📅 **Created:** 11 months ago  
 
 **Description:**  
 A market-level analysis of Google Play Store applications:
@@ -55,8 +49,6 @@ A market-level analysis of Google Play Store applications:
 ---
 
 ### 4️⃣ Hotel Bookings Analysis Dashboard
-📄 **File:** `Hotel_bookings_DASHBOARD.pdf`  
-📅 **Created:** 11 months ago  
 
 **Description:**  
 A business intelligence dashboard for hotel booking data:
@@ -70,8 +62,6 @@ A business intelligence dashboard for hotel booking data:
 ---
 
 ### 5️⃣ IMDb Global Film Analysis Dashboard
-📄 **File:** `IMDb Global Film Analysis Dashboard.pdf`  
-📅 **Created:** Last week  
 
 **Description:**  
 A global analysis of movies using IMDb data:
@@ -85,9 +75,6 @@ A global analysis of movies using IMDb data:
 ---
 
 ### 6️⃣ Mobile Sales Dashboard
-📄 **File:** `MOBILES SALES DASHBOARD.pdf`  
-📊 **PBIX:** `Mobil Sales.pbix`  
-📅 **Created:** Last year  
 
 **Description:**  
 A sales performance dashboard for mobile products:
@@ -101,8 +88,6 @@ A sales performance dashboard for mobile products:
 ---
 
 ### 7️⃣ Power Networks – LCL (June 2015)
-📄 **File:** `Power-Networks-LCL-June2015.pdf`  
-📅 **Created:** Last week  
 
 **Description:**  
 An analytical dashboard focused on power network and load consumption data:
