@@ -45,7 +45,7 @@ I transform raw data into strategic business intelligence using an AI-first meth
 - Processed 119,209 bookings with 99.85% data retention using advanced Winsorization
 - Engineered 19 features for customer segmentation and CLV analysis
 - Conducted hypothesis testing proving pricing-cancellation correlation (p < 0.001)
-- Created a dynamic Power BI dashboard with 12 professional visualizations
+- Created 12 professional visualizations.
 
 **Key Technologies:** Python, Pandas, SciPy, Seaborn, Statistical Modeling
 
@@ -55,7 +55,11 @@ I transform raw data into strategic business intelligence using an AI-first meth
 - Off-season revenue optimization (+30% winter occupancy target)
 
 [📁 View Project](https://www.kaggle.com/code/danishazeem36512/advanced-data-analysis-of-hotel-bookings-demand)
----
+
+[View Other projects on Github](https://github.com/Danish12365/PROJECTS/tree/main/PYTHON%20PROJECTS)
+
+[View Excel Projects on Github](https://github.com/Danish12365/PROJECTS/tree/main/EXCEL%20PROJECTS)
+
 
 ### 🤖 [Machine Learning Model Portfolio](./ml-models)
 **Predictive Analytics & Classification Projects**
