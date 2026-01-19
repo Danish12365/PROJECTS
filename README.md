@@ -64,6 +64,7 @@ I transform raw data into strategic business intelligence using an AI-first meth
 ### 🤖 [Machine Learning Model Portfolio](./ml-models)
 **Predictive Analytics & Classification Projects**
 
+
 Collection of ML implementations demonstrating:
 - Supervised learning (regression, classification)
 - Model evaluation & hyperparameter tuning
@@ -73,6 +74,16 @@ Collection of ML implementations demonstrating:
 **Technologies:** Scikit-Learn, TensorFlow, Cross-Validation, GridSearchCV
 
 ### **Explore Models:**
+# 🎥 Project Walkthrough: Bank Churn Intelligence
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=R0AO9Xduu5M">
+    <img src="https://img.youtube.com/vi/R0AO9Xduu5M/maxresdefault.jpg" alt="Bank Churn Project Video" style="width:100%; max-width:800px; border-radius:10px; border: 2px solid #003366;">
+    <br>
+    <b>▶️ Click to Watch the Technical Breakdown on YouTube</b>
+  </a>
+</div>
+
 [📁 Bank-customer-churn-prediction](https://www.kaggle.com/code/danishazeem36512/bank-customer-churn-prediction)
 
 [📁 Heart-disease-prediction-3-levels-disease-severity](https://www.kaggle.com/code/danishazeem36512/heart-disease-prediction-3-levels-disease-severity)
