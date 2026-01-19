@@ -37,10 +37,12 @@ I transform raw data into strategic business intelligence using an AI-first meth
 ---
 
 ## 📊 Featured Projects
+[🏨 Hotel Bookings Analysis: When Data Challenges Assumptions]((https://github.com/Danish12365/PROJECTS/blob/main/PYTHON%20PROJECTS/comprehensive-interactive-hotel-bookings-analysis.ipynb)
+
 
 ### 🏨 [🏨 Hotel Bookings Analysis: When Data Challenges Assumptions]([./hotel-booking-analysi](https://github.com/Danish12365/PROJECTS/blob/main/PYTHON%20PROJECTS/comprehensive-interactive-hotel-bookings-analysis.ipynb)s)
 
-**Impact:** Identified €12.7M in annual optimization opportunities through comprehensive statistical analysis
+**Impact:** Identified €12.7M in annual optimisation opportunities through comprehensive statistical analysis
 
 
 📊 The Finding:
