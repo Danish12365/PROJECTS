@@ -38,22 +38,37 @@ I transform raw data into strategic business intelligence using an AI-first meth
 
 ## 📊 Featured Projects
 
-### 🏨 [Hotel Booking Analytics & Revenue Optimization](./hotel-booking-analysis)
+### 🏨 [🏨 Hotel Bookings Analysis: When Data Challenges Assumptions]([./hotel-booking-analysi](https://github.com/Danish12365/PROJECTS/blob/main/PYTHON%20PROJECTS/comprehensive-interactive-hotel-bookings-analysis.ipynb)s)
+
 **Impact:** Identified €12.7M in annual optimization opportunities through comprehensive statistical analysis
 
-**What I Built:**
-- Processed 119,209 bookings with 99.85% data retention using advanced Winsorization
-- Engineered 19 features for customer segmentation and CLV analysis
-- Conducted hypothesis testing proving pricing-cancellation correlation (p < 0.001)
-- Created 12 professional visualizations.
 
-**Key Technologies:** Python, Pandas, SciPy, Seaborn, Statistical Modeling
+📊 The Finding:
+- Non-refundable deposits: 99% cancellation
+- Refundable deposits: 22% cancellation
 
-**Business Outcomes:**
-- Dynamic pricing strategy to reduce 37% cancellation rate
-- Loyalty program framework (projected +€2.5M revenue)
-- Off-season revenue optimization (+30% winter occupancy target)
+The "commitment strategy" was backfiring—4.5× worse performance.
 
+🔍 Key Insights:
+✓ Special requests reduce cancellations by 43%
+✓ Repeat guests cancel 2.6× less
+✓ Long-lead bookings (180+ days) cancel 173% more than last-minute bookings
+
+💡 What I Built:
+- 30+ interactive Plotly visualizations
+- Widget-based exploration dashboard
+- Statistical validation (Chi-square tests)
+- €22.8M ROI-quantified strategy
+
+🛠️ Stack: Python | Pandas | Plotly | SciPy | ipywidgets
+
+This project reinforced a key lesson: **Data beats conventional wisdom.**
+
+---
+
+Muhammad Danish Azeem
+Data Analyst | Business Intelligence Specialist
+📧 danishazeem@gmail.com
 [📁 View Project](https://www.kaggle.com/code/danishazeem36512/advanced-data-analysis-of-hotel-bookings-demand)
 
 [View Other projects on Github](https://github.com/Danish12365/PROJECTS/tree/main/PYTHON%20PROJECTS)
