@@ -9,14 +9,10 @@
 <h1 align="center">Muhammad Danish Azeem</h1>
   
 <p align="center">
-    <strong>AI-Augmented Data Analyst | Business Intelligence Specialist</strong>
+    <strong>Data Analyst | Business Intelligence Specialist | Machine Learning Developer</strong>
     <br />
-    <em>Transforming data into decisions 2x faster with AI-first analytics</em>
+    <em>Transforming raw data into strategic business decisions with statistical rigor, BI dashboards, and ML models</em>
 </p>
-
-<a href="https://www.kaggle.com/danishazeem36512">
-    <img src="https://komarev.com/ghpvc/?username=danish12365&color=00e5ff&style=flat-square" alt="Profile Views" />
-</a>
 
 </div>
 
@@ -26,117 +22,101 @@
   <summary><h2 style="display: inline-block;">📑 Table of Contents</h2></summary>
   <ul>
     <li><a href="#about">About Me</a></li>
-    <li><a href="#competencies">Core Competencies</a></li>
     <li><a href="#featured-projects">Featured Projects</a></li>
-    <li><a href="#ml-portfolio">Machine Learning Portfolio</a></li>
-    <li><a href="#powerbi-collection">Power BI Dashboards</a></li>
-    <li><a href="#differentiators">What Makes My Work Different</a></li>
-    <li><a href="#learning">Continuous Learning</a></li>
-    <li><a href="#connect">Let's Connect</a></li>
+    <li><a href="#role-index">Role-Based Project Index</a></li>
+    <li><a href="#skills">Evidenced Skills & Stack</a></li>
+    <li><a href="#connect">Contact & Connect</a></li>
   </ul>
 </details>
 
 ---
 
-<h2 id="about">🎯 Who I Am</h2>
+<h2 id="about">🎯 About Me</h2>
 
-### **Data Analyst specializing in Python & Power BI | AI Integration Specialist**
-
-I architect AI-enhanced data pipelines that deliver strategic business intelligence at **2x traditional speed**. With 2 years at **Codanics**, I've pioneered the use of Large Language Models (ChatGPT, Claude, DeepSeek) as analytical force multipliers—automating EDA, optimizing code, and accelerating insights delivery without compromising statistical rigor.
-
-> 🚀 **Core Philosophy:** *AI augments, not replaces. I leverage machine intelligence for acceleration while maintaining full human control.*
-
----
-
-<h2 id="competencies">💼 Core Competencies</h2>
-
-| **Category** | **Stack** | **Proficiency** |
-|--------------|-----------|-----------------|
-| **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL | 🔸🔸🔸🔸🔸 |
-| **BI Tools** | Power BI (DAX, Power Query), Excel | 🔸🔸🔸🔸🔸 |
-| **AI Integration** | Expert Prompt Engineering (ChatGPT, Claude) | 🔸🔸🔸🔸🔸 |
+Data professional with practical experience in Exploratory Data Analysis (EDA), Business Intelligence dashboard development, and Machine Learning predictive modeling. Skilled in translating complex multi-source datasets into executive insights, hypothesis testing, interactive Power BI dashboards, and production-ready machine learning pipelines.
 
 ---
 
 <h2 id="featured-projects">🏆 Featured Projects</h2>
 
-### 🏨 **Hotel Bookings Optimization Analysis**
-**[📊 View Interactive Notebook](https://github.com/Danish12365/PROJECTS/blob/main/PYTHON%20PROJECTS/comprehensive-interactive-hotel-bookings-analysis.ipynb)**
-
-**💡 Business Impact:** Identified **€12.7M annual optimization opportunity** through counter-intuitive statistical discovery. Every insight is backed by hypothesis testing (Chi-Square, Mann-Whitney U).
-
----
-
-<h2 id="ml-portfolio">🤖 Machine Learning Model Portfolio</h2>
-
-<div align="center">
-
-| Project | Type | Accuracy | Live Demo |
-|---------|------|----------|-----------|
-| [🏦 Bank Churn Prediction](https://www.kaggle.com/code/danishazeem36512/bank-customer-churn-prediction) | Classification | 89.3% | [📹 Watch Video](https://www.youtube.com/watch?v=R0AO9Xduu5M) |
-| [❤️ Heart Disease Detection](https://www.kaggle.com/code/danishazeem36512/heart-disease-prediction-3-levels-disease-severity) | Multi-class | 92.1% | [🔬 View Kernel](https://www.kaggle.com/code/danishazeem36512/heart-disease-prediction-using-advanced-ml) |
-
-</div>
+### 1. 🏨 Hotel Bookings Optimization & Demand Analysis
+* **Problem:** High booking cancellation rates (37.0% overall) leading to inventory misallocation and revenue leakage.
+* **Dataset:** Kaggle Hotel Booking Demand Dataset (119,390 records, 32 attributes).
+* **Tools:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ipywidgets).
+* **Key Result:** Identified key drivers of cancellations via Mann-Whitney U ($p < 0.001$) and Chi-Square ($\chi^2 = 27,677, p < 0.001$) testing; quantified an illustrative €12.7M revenue optimization opportunity.
+* **Preview:** [View Hotel Bookings Dashboard Export (PDF)](./POWER%20BI%20PROJECTS/Hotel_bookings_DASHBOARD.pdf)
+* **Project Documentation & Notebooks:**
+  - [Read Detailed Project README](./docs/projects/hotel-bookings.md)
+  - [Interactive Analysis Notebook](./PYTHON_EDA_PROJECTS/Comprehensive%20Interactive%20Hotel%20Bookings%20Analysis.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danish12365/PROJECTS/blob/main/PYTHON_EDA_PROJECTS/Comprehensive%20Interactive%20Hotel%20Bookings%20Analysis.ipynb) | [View on nbviewer](https://nbviewer.org/github/Danish12365/PROJECTS/blob/main/PYTHON_EDA_PROJECTS/Comprehensive%20Interactive%20Hotel%20Bookings%20Analysis.ipynb)
 
 ---
 
-<h2 id="powerbi-collection">📊 Power BI Dashboards</h2>
-
-<div align="center">
-  <p>Interactive Business Intelligence Visualizations following Microsoft Best Practices.</p>
-  <a href="https://github.com/Danish12365/PROJECTS/tree/main/POWER%20BI%20PROJECTS"><strong>📁 View All Dashboards</strong></a>
-</div>
-
----
-
-<h2 id="differentiators">⚡ What Makes My Work Different</h2>
-
-1. **AI-Augmented Efficiency:** Automating 60% of routine tasks while maintaining 100% logic control.
-2. **Statistical Rigor:** No visualization is published without rigorous hypothesis testing.
-3. **ROI-Centric Reporting:** Translating technical metrics into board-ready financial strategies.
+### 2. 🏦 Bank Customer Churn Prediction & Model Benchmarking
+* **Problem:** Predict retail banking customer churn to enable proactive customer retention campaigns.
+* **Dataset:** Kaggle Bank Churn Dataset (10,000 customers, 12 original features expanded to 17 engineered features).
+* **Tools:** Python (Scikit-Learn, CatBoost, TensorFlow/Keras, SHAP, Pandas).
+* **Key Result:** Achieved **0.8798 ROC-AUC** and **86.90% Accuracy** on test evaluation using regularized CatBoost and SHAP model explainability.
+* **Preview:** [View CatBoost & SHAP Model Notebook](./PYTHON_MACHINE%20LEARNING%20PROJECTS/Bank-customer-churn-prediction.ipynb)
+* **Project Documentation & Notebooks:**
+  - [Read Detailed Project README](./docs/projects/bank-churn.md)
+  - [CatBoost Churn Notebook](./PYTHON_MACHINE%20LEARNING%20PROJECTS/Bank-customer-churn-prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danish12365/PROJECTS/blob/main/PYTHON_MACHINE%20LEARNING%20PROJECTS/Bank-customer-churn-prediction.ipynb) | [View on nbviewer](https://nbviewer.org/github/Danish12365/PROJECTS/blob/main/PYTHON_MACHINE%20LEARNING%20PROJECTS/Bank-customer-churn-prediction.ipynb)
 
 ---
 
-<h2 id="learning">📚 Continuous Learning Stack</h2>
-
-- **Current Focus:** Advanced Statistical Modeling, Cloud Analytics (Azure), and MLOps.
-- **Sources:** Microsoft Learn, freeCodeCamp, Codanics.
+### 3. ❤️ Clinical Heart Disease Risk & Severity Classification
+* **Problem:** Multi-level classification of heart disease severity using non-invasive clinical patient records.
+* **Dataset:** UCI Heart Disease Dataset (920 patient cases, 15 clinical features).
+* **Tools:** Python (Scikit-Learn, XGBoost, LightGBM, CatBoost, Joblib).
+* **Key Result:** Achieved **72.83% Test Accuracy** and **0.6924 Macro F1-Score** for severity classification with probability calibration.
+* **Preview:** [View Severity Classification Notebook](./PYTHON_MACHINE%20LEARNING%20PROJECTS/Heart-Disease-Prediction-3-levels-disease-severity.ipynb)
+* **Project Documentation & Notebooks:**
+  - [Read Detailed Project README](./docs/projects/heart-disease.md)
+  - [Severity Classification Notebook](./PYTHON_MACHINE%20LEARNING%20PROJECTS/Heart-Disease-Prediction-3-levels-disease-severity.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danish12365/PROJECTS/blob/main/PYTHON_MACHINE%20LEARNING%20PROJECTS/Heart-Disease-Prediction-3-levels-disease-severity.ipynb) | [View on nbviewer](https://nbviewer.org/github/Danish12365/PROJECTS/blob/main/PYTHON_MACHINE%20LEARNING%20PROJECTS/Heart-Disease-Prediction-3-levels-disease-severity.ipynb)
 
 ---
 
-<h2 id="connect">🤝 Let's Connect</h2>
+### 4. 📊 Enterprise Power BI Dashboard Collection
+* **Problem:** Consolidate disparate datasets into interactive, executive-ready BI reports for strategic monitoring.
+* **Datasets:** COVID-19 Public Health, UK Electricity Demand, Mobile Sales, Google Play Store, IMDb Global Films.
+* **Tools:** Power BI Desktop, Power Query (M Language), DAX, Star Schema Modeling.
+* **Key Result:** Designed 7 interactive reports featuring dynamic KPI cards, time-series forecasting, and drill-through matrices.
+* **Preview:** [View Power BI Dashboard Collection Readme](./docs/projects/power-bi-dashboards.md)
+* **Project Documentation & Files:**
+  - [Power BI Collection Overview](./POWER%20BI%20PROJECTS/README.md)
+  - [COVID-19 Interactive Model (.pbix)](./POWER%20BI%20PROJECTS/Covid%2019.pbix)
+  - [Mobile Sales Interactive Model (.pbix)](./POWER%20BI%20PROJECTS/Mobil_Sales.pbix)
 
-<div align="center">
+---
 
-### **🚀 Available for AI-Augmented Analytics Consultation**
-*I am actively seeking opportunities to bring AI-first analytics to forward-thinking organizations.*
+<h2 id="role-index">🗂️ Role-Based Project Index</h2>
 
-<br>
+Navigate directly to projects relevant to specific hiring roles:
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="https://www.kaggle.com/danishazeem36512" target="_blank" style="text-decoration: none; width: 190px; padding: 12px 0; display: flex; align-items: center; justify-content: center; border-radius: 14px; background: rgba(0, 229, 255, 0.08); border: 1px solid rgba(0, 229, 255, 0.6);">
-    <span style="color: #00E5FF; font-size: 13px; font-weight: 700;">KAGGLE <span style="font-weight: 400; color: rgba(255,255,255,0.8); margin-left: 4px;">Profile</span></span>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-danish-094481387/" target="_blank" style="text-decoration: none; width: 190px; padding: 12px 0; display: flex; align-items: center; justify-content: center; border-radius: 14px; background: rgba(0, 119, 181, 0.08); border: 1px solid rgba(0, 119, 181, 0.6);">
-    <span style="color: #0A66C2; font-size: 13px; font-weight: 700;">LINKEDIN <span style="font-weight: 400; color: rgba(255,255,255,0.8); margin-left: 4px;">Connect</span></span>
-  </a>
-  <a href="https://github.com/Danish12365/PROJECTS" target="_blank" style="text-decoration: none; width: 190px; padding: 12px 0; display: flex; align-items: center; justify-content: center; border-radius: 14px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.3);">
-    <span style="color: #ffffff; font-size: 13px; font-weight: 700;">GITHUB <span style="font-weight: 400; color: rgba(255,255,255,0.7); margin-left: 4px;">Projects</span></span>
-  </a>
-</div>
+| Targeted Role | Primary Folders & Resources | Key Projects & Focus Areas |
+| :--- | :--- | :--- |
+| **Data Analyst** | [PYTHON_EDA_PROJECTS](./PYTHON_EDA_PROJECTS/)<br>[EXCEL PROJECTS](./EXCEL%20PROJECTS/) | Statistical Hypothesis Testing, Hotel Bookings, UK Electricity Consumption, Bike Buyers Demographics |
+| **Business Intelligence Analyst** | [POWER BI PROJECTS](./POWER%20BI%20PROJECTS/)<br>[EXCEL PROJECTS](./EXCEL%20PROJECTS/) | Interactive Power BI Dashboards, DAX Measures, Star Schema Modeling, Executive MIS Reports |
+| **Data Scientist / ML Engineer** | [PYTHON_MACHINE LEARNING PROJECTS](./PYTHON_MACHINE%20LEARNING%20PROJECTS/) | CatBoost Churn Classification, Deep Learning ANNs, SHAP Model Explainability, Heart Disease Diagnosis |
 
-<br>
+---
 
-| 📬 Direct Reach | 📍 Location |
-| :--- | :--- |
-| **Email:** [danishazeem365@gmail.com](mailto:danishazeem365@gmail.com) | Lodhran, Pakistan (🌍 Remote Friendly) |
-| **Phone:** +92 302 4316575 | **Status:** Open for Opportunities |
+<h2 id="skills">💼 Evidenced Skills & Technical Stack</h2>
 
-<br>
+*All skills listed below are directly evidenced by source code, notebooks, workbooks, or models in this repository.*
 
-<img src="https://img.shields.io/badge/Last%20Updated-January%202026-blueviolet?style=flat-square" alt="Updated" />
+* **Programming & Libraries:** Python (Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow/Keras, CatBoost, XGBoost, LightGBM, SHAP, Matplotlib, Seaborn, Plotly, ipywidgets).
+* **Business Intelligence & Reporting:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query (M), Dimensional Modeling (Star Schema), Excel Dashboards, Pivot Tables, Advanced Spreadsheet Formulas (`SUMIFS`, `XLOOKUP`, `INDEX/MATCH`), VBA Macros.
+* **Statistical & Machine Learning Methods:** Parametric & Non-Parametric Hypothesis Testing (Chi-Square, Mann-Whitney U, Z-score outlier analysis), Classification, Probability Calibration, Ensembles (Voting, Stacking), Feature Engineering, SHAP Explainability.
 
-</div>
+---
+
+<h2 id="connect">🤝 Contact & Professional Links</h2>
+
+* **LinkedIn:** [Muhammad Danish](https://www.linkedin.com/in/muhammad-danish-094481387/)
+* **Kaggle:** [@danishazeem36512](https://www.kaggle.com/danishazeem36512)
+* **GitHub Profile:** [@Danish12365](https://github.com/Danish12365)
+* **Portfolio Website:** [danish12365.github.io/danish-azeem-portfolio-website](https://danish12365.github.io/danish-azeem-portfolio-website/)
+* **Email:** [danishazeem365@gmail.com](mailto:danishazeem365@gmail.com)
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/muhammad-danish-094481387/
